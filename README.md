@@ -19,8 +19,6 @@
 ![desktop](https://github.com/user-attachments/assets/8fa52e26-d962-4545-9ee6-416c0aa3a8c3)
 
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter]([https://x.com/DosadGourav]).
 
-### License
 
-[MIT](https://choosealicense.com/licenses/mit/)
